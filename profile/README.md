@@ -16,7 +16,15 @@ Rezall est l'une de nos sous-organisations importantes sur GitHub. Elle regroupe
 
 ## Autres sous-organisations 🏢
 
-À venir...
+Parce qu'on travaille aussi pour d'autre client nous nous organisons aussi en sous-organisation : 
+
+➡️ ➡️ [Accéder à l'organisation Resante-vous](https://github.com/resante-vous) ⬅️ ⬅️
+
+➡️ ➡️ [Accéder à l'organisation Fondation Maif](https://github.com/fondation-maif) ⬅️ ⬅️
+
+<!-- ➡️ ➡️ [Accéder à l'organisation Digital Associates](https://github.com/rezall-apps) ⬅️ ⬅️ -->
+
+
 
 ## Starter Kits chez Sinap's Conseils 🚀
 Chez Sinap's Conseils, nous facilitons le démarrage rapide de vos projets grâce à nos starter kits préconfigurés pour le développement mobile, web, et backend. Ces kits sont conçus pour offrir une base solide, comprenant les meilleures pratiques, des bibliothèques essentielles, et des configurations préétablies qui accélèrent le cycle de développement et assurent la qualité dès le début.
