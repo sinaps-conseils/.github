@@ -1,5 +1,5 @@
 # Bienvenue chez Sinap's Conseils 🌟
-Bienvenue sur le profil GitHub de Sinap's Conseils, votre partenaire expert en solutions logicielles. Fondée en 2019, notre société se spécialise dans le développement et l'édition de logiciels, aidant les entreprises à optimiser leurs processus grâce à des technologies innovantes et efficaces.
+Bienvenue sur le profil GitHub de **Sinap's Conseils**, votre partenaire expert en solutions logicielles. Fondée en 2019, notre société se spécialise dans le développement et l'édition de logiciels, aidant les entreprises à optimiser leurs processus grâce à des technologies innovantes et efficaces.
 
 ## Qui sommes-nous ? 🤔
 Sinap's Conseils est une société d'édition logicielle qui développe des solutions sur mesure pour répondre aux besoins spécifiques de nos clients. Notre mission est de transformer les défis technologiques en opportunités d'affaires, en fournissant des outils puissants et intuitifs.
@@ -15,3 +15,5 @@ Rezall est l'une de nos sous-organisations importantes sur GitHub. Elle regroupe
 ➡️ ➡️ [Accéder à l'organisation Rezall](https://github.com/rezall-apps) ⬅️ ⬅️
 
 ## Autres sous-organisations 🏢
+
+À venir...
