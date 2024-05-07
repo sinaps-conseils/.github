@@ -22,7 +22,7 @@ Parce qu'on travaille aussi pour d'autre client nous nous organisons aussi en so
 
 ➡️ ➡️ [Accéder à l'organisation Fondation Maif](https://github.com/fondation-maif) ⬅️ ⬅️
 
-<!-- ➡️ ➡️ [Accéder à l'organisation Digital Associates](https://github.com/rezall-apps) ⬅️ ⬅️ -->
+➡️ ➡️ [Accéder à l'organisation Digital Associates](https://github.com/digitalassociates) ⬅️ ⬅️
 
 
 
